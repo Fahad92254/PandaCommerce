@@ -1,4 +1,7 @@
 <img src="Panda-Commerce.png">
+This is a responsive, fully-functional re-selling website. I created this whole website using HTML and CSS(Bootstrap). You can see my live website on: <a href="https://fazlerabbi-fahad.github.io/PandaCommerce/">https://fazlerabbi-fahad.github.io/PandaCommerce/</a><br>
+-> I have created my website using HTML and CSS(Bootstrap)<br>
+-> A wonderful and responsive UI.<br>
+-> Used GitHub to deploy<br>
+-> It was just a UI for e-commerce site
 
-This is one of my practice website. It was created when I was practicing Bootstrap. I tried to make it look like a ecommarce site without any interaction. Only with HTML,CSS and Bootstrap.
-Full website:https://fazlerabbi-fahad.github.io/PandaCommerce/
